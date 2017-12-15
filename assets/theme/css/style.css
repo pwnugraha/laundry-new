@@ -425,14 +425,12 @@ nav .mbr-section-btn {
 	left: -2400px;
 }
 
-
+/*revisi */
 .thumbnail {
     position: relative;
     padding: 0px;
     margin-bottom: 20px;
-    max-height: 520px;
 }
-
 .thumbnail img {
     width: 100%;
 }
