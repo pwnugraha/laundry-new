@@ -3214,3 +3214,12 @@ body {
 .article.btn.btn-white-outline p{
   margin-top: 10px;
 }
+
+.content-article {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.content-article p {
+  color: #333;
+}
